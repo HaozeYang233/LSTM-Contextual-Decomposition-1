@@ -14,3 +14,4 @@ LSTM_CD_demo.ipynb
 
 * **Junwen Wang** [jw7u18@soton.ac.uk]()
 * **Xing Xu** [xx1r18@soton.ac.uk]()
+* **Haoze Yang** [hy2u18@soton.ac.uk]()
