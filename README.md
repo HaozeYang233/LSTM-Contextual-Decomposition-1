@@ -6,7 +6,7 @@ Reproducing the results from an ICLR paper "Beyond Word Importance: Contextual D
 
 We recommond to run this repository in Google Colab enviornment, with turn on the gpu setting.
 ```
-Just run CD_demo.ipynb
+LSTM_CD_demo.ipynb
 ```
 
 
